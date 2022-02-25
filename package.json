@@ -1,0 +1,29 @@
+{
+  "name": "kountry",
+  "version": "1.0.0",
+  "description": "Get country's data like GDP,area,population,country code,isocode and name",
+  "main": "example.js",
+  "scripts": {
+    "devStart": "nodemon example.js"
+  },
+  "keywords": [
+    "countryapi",
+    "api",
+    "countrypedia",
+    "country data api",
+    "country data"
+  ],
+  "homepage": "https://kountry-readme.vercel.app/",
+  "bugs": {
+    "url": "https://github.com/jayantur13/Kountry/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kountry/Kountry.git"
+  },
+  "author": "Jayant Navrange",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
