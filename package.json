@@ -1,6 +1,6 @@
 {
   "name": "kountry",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Get country's data like GDP,area,population,country code,isocode and name",
   "main": "example.js",
   "scripts": {
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Kountry/Kountry.git"
+    "url": "https://github.com/jayantur13/Kountry.git"
   },
   "author": "Jayant Navrange",
   "license": "MIT",
