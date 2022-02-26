@@ -1,6 +1,6 @@
 {
   "name": "kountry",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get country's data like GDP,area,population,country code,isocode and name",
   "main": "example.js",
   "scripts": {
