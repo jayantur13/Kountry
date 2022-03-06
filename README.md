@@ -1,5 +1,15 @@
-# Kountry
-Node module variant of the <a href="https://github.com/jayantur13/GraphQL-Country-API">Country API</a>,you'll get data in JSON format
+<p align="center"><img src="https://pasteimg.com/images/2022/03/06/Untitled-Design.png"/></p>
+<p align="center"> 
+  <img src="https://img.shields.io/npm/l/kountry?style=flat-square"/>
+  <img src="https://img.shields.io/bundlephobia/min/kountry?style=flat-square"/>
+  <img src="https://img.shields.io/npm/v/kountry?style=flat-square"/>
+  <img src="https://img.shields.io/npm/dependency-version/kountry/dev/nodemon?style=flat-square"/>
+  <img src="https://img.shields.io/npm/dm/kountry?style=flat-square"/>
+  <img src="https://img.shields.io/jsdelivr/npm/hm/kountry?style=flat-square"/>
+  <img src="https://img.shields.io/snyk/vulnerabilities/npm/kountry?style=flat-square"/>
+</p>
+<p align="center"><b>Node module variant of the <a href="https://github.com/jayantur13/GraphQL-Country-API">Country API</a>,you'll get data in JSON format</b></p>
+<hr>
 
 # Features
 * Get country data by providing country name
